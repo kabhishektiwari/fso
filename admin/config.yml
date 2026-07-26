@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: kabhishektiwari/kabhishektiwari.github.io
+  branch: main
+
+local_backend: true
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "content"
+    label: "Website Content"
+    files:
+      - file: "data/stories.json"
+        name: "stories_db"
+        label: "Financial Posts & Articles"
+        fields:
+          - name: "stories"
+            label: "All Financial Posts"
+            widget: "list"
+            summary: "{{title}} | [Tab: {{category}}] [Hero: {{isHero}}]"
+            fields:
+              - { name: "id", label: "Story ID (Must be unique number)", widget: "number", value_type: "int" }
+              - { name: "title", label: "Post Title", widget: "string" }
+              - { name: "isHero", label: "★ Make this Post the Hero Post (Renders at Top of Homepage)", widget: "boolean", default: false, hint: "Check this box to render this post as the primary Hero post at the top of the homepage." }
+              - { name: "trendingWeekly", label: "Featured / Trending Status", widget: "boolean", default: false, hint: "Secondary hero / trending flag." }
+              - { name: "category", label: "Category / Tab", widget: "select", options: ["World", "Markets", "Economy", "Central Banks", "Technology", "Commodities", "India", "US", "Europe"], default: "Markets", hint: "Select category tab for this post." }
+              - { name: "tag", label: "Editorial Sub-Tag (e.g. Geopolitics, Semiconductors, Monetary Policy)", widget: "string", default: "News", hint: "Short sub-category tag displayed next to category." }
+              - { name: "authorId", label: "Author / Contributor", widget: "select", options: [
+                  { label: "Abhishek Tiwari (k_abhishektiwari)", value: "k_abhishektiwari" },
+                  { label: "Sarah Chen (s_chen)", value: "s_chen" },
+                  { label: "Ren Takahashi (r_takahashi)", value: "r_takahashi" },
+                  { label: "Marcus Van Der Berg (m_vanderberg)", value: "m_vanderberg" },
+                  { label: "Elena Rodriguez (e_rodriguez)", value: "e_rodriguez" },
+                  { label: "Arjun Kapoor (a_kapoor)", value: "a_kapoor" },
+                  { label: "Julian Blackwood (j_blackwood)", value: "j_blackwood" },
+                  { label: "Nadia Al-Mansoor (n_al_mansoor)", value: "n_al_mansoor" },
+                  { label: "Pierre Dubois (p_dubois)", value: "p_dubois" },
+                  { label: "Laura Foster (l_foster)", value: "l_foster" }
+                ], default: "k_abhishektiwari" }
+              - { name: "about", label: "Excerpt / Short Summary (Shown on Post Card)", widget: "text", required: false, hint: "Summary displayed on card." }
+              - { name: "body", label: "Full Article Content (Markdown supported)", widget: "markdown" }
+              - { name: "createdAt", label: "Publish Date & Time", widget: "string", hint: "Format: DD/MM/YYYY HH:MM AM/PM or 26 July 2026" }
+              - { name: "views", label: "View Count", widget: "number", value_type: "int", default: 1250 }
+
+      - file: "data/authors.json"
+        name: "authors_db"
+        label: "Authors & Profiles"
+        fields:
+          - name: "k_abhishektiwari"
+            label: "Abhishek Tiwari"
+            widget: "object"
+            fields:
+              - { name: "name", label: "Full Name", widget: "string" }
+              - { name: "role", label: "Role / Title", widget: "string" }
+              - { name: "bio", label: "Biography", widget: "text" }
+              - { name: "avatar", label: "Avatar Image Path or URL", widget: "string" }
+          - name: "s_chen"
+            label: "Sarah Chen"
+            widget: "object"
+            fields:
+              - { name: "name", label: "Full Name", widget: "string" }
+              - { name: "role", label: "Role / Title", widget: "string" }
+              - { name: "bio", label: "Biography", widget: "text" }
+              - { name: "avatar", label: "Avatar Image Path or URL", widget: "string" }
