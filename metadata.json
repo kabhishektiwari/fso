@@ -1,0 +1,8 @@
+{
+  "name": "The Finshift Order",
+  "description": "Financial news, stories, author profiles, and AI assistant platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

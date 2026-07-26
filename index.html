@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Finshift Order | Global Financial News & Analysis</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<div class="page">
+
+  <!-- SITE MASTHEAD HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Toggle navigation menu">
+        <span id="menuIcon">☰</span>
+      </button>
+
+      <a href="index.html" class="brand-title-link">
+        <span class="site-title">THE FINSHIFT ORDER</span>
+      </a>
+
+      <a href="index.html" class="brand-logo-link">
+        <img src="images/logo.png" alt="Site Logo" class="site-logo" onerror="this.src='images/authors/myprofilecircle.png'">
+      </a>
+    </div>
+  </header>
+
+  <!-- BACKDROP OVERLAY FOR MOBILE MENU -->
+  <div id="menuBackdrop" class="menu-backdrop"></div>
+
+  <!-- CATEGORY NAV / MOBILE SIDE DRAWER -->
+  <div class="category-nav-wrapper" id="categoryNavWrapper">
+    <div class="mobile-drawer-header">
+      <span class="drawer-title">CATEGORIES</span>
+    </div>
+    <nav class="category-nav" id="categoryNav"></nav>
+  </div>
+
+  <!-- SECTION 1: HERO FEATURED POST -->
+  <section id="trendingSectionContainer">
+    <div id="trendingHeroCard"></div>
+  </section>
+
+  <!-- SECTION 2: LATEST FINANCIAL POSTS (NEWEST FIRST) -->
+  <section id="latestSectionContainer">
+    <div class="section-heading-wrap">
+      <h2 id="sectionTitle" class="section-title">Latest Articles</h2>
+      <span class="section-subtitle" id="postCountBadge">Showing 20 newest reports</span>
+    </div>
+
+    <div id="stories" class="stories-grid"></div>
+
+    <!-- VIEW ALL POSTS BUTTON -->
+    <div class="view-all-container" id="viewAllContainer">
+      <button id="viewAllBtn" class="view-all-btn">View All Financial Posts (22+)</button>
+    </div>
+  </section>
+
+  <!-- SECTION 3: TOP 10 AUTHORS -->
+  <section id="authorsSectionContainer">
+    <div class="section-heading-wrap" id="authorsSection">
+      <h2 class="section-title">Top Financial Authors & Analysts</h2>
+      <span class="section-subtitle">Leading Voices in Global Economics & Markets</span>
+    </div>
+    <div id="authorsGrid" class="authors-grid"></div>
+  </section>
+
+  <!-- FLOATING ASK PAICAT AI BUTTON -->
+  <a href="paicat.html" style="position: fixed; bottom: 28px; right: 28px; background-color: #0f172a; color: white; padding: 12px 22px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 700; font-family: -apple-system, sans-serif; box-shadow: 0 10px 25px rgba(15,23,42,0.3); z-index: 9999; display: flex; align-items: center; gap: 8px; border: 1px solid #334155; transition: transform 0.2s ease, background-color 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='#1e293b';" onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#0f172a';">
+    <span style="font-size: 18px;">✨</span> Ask Paicat AI
+  </a>
+
+  <!-- SITE FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-logo">THE FINSHIFT ORDER</div>
+      <p class="footer-text">Delivering rigorous independent reporting, sovereign debt tracking, macroeconomic forecasts, and market intelligence.</p>
+      <div class="footer-copy">© 2026 The Finshift Order. All rights reserved.</div>
+    </div>
+  </footer>
+
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>

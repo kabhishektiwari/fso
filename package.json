@@ -1,0 +1,14 @@
+{
+  "name": "the-finshift-order",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "lint": "echo 'No lint step needed'",
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

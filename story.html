@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Financial Report | The Finshift Order</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/story.css">
+</head>
+<body>
+
+<div class="page">
+  <div class="story-page-wrapper">
+    <a href="index.html" class="back-btn">← Back to Financial Digest</a>
+
+    <!-- STORY HEADER METADATA -->
+    <div class="story-header-tags">
+      <span id="categoryPill" class="story-category-pill">World Analysis</span>
+      <div class="story-header-stats">
+        <span id="viewsCount">👁️ 0 views</span>
+        <span>•</span>
+        <span id="readTime">⏱️ 5 min read</span>
+      </div>
+    </div>
+
+    <h1 id="title" class="story-main-title">Article Title Loading...</h1>
+
+    <!-- AUTHOR TOP HEADER BAR -->
+    <div class="story-author-header">
+      <div class="author-info-left">
+        <img id="authorAvatar" class="story-author-avatar" alt="Author Avatar">
+        <div>
+          <div><a id="authorLink" class="story-author-name">Author Name</a></div>
+          <div id="authorRole" class="story-author-role">Senior Analyst</div>
+        </div>
+      </div>
+      <div>
+        <span id="date" style="font-size: 13px; color: #64748b; font-weight: 500; display: block; text-align: right; margin-bottom: 4px;">Date</span>
+        <button id="shareBtn" class="share-btn">🔗 Share Article</button>
+      </div>
+    </div>
+
+    <!-- EXECUTIVE SUMMARY STANDFIRST -->
+    <section id="aboutSection">
+      <div class="standfirst-title">Executive Summary</div>
+      <p id="aboutText"></p>
+    </section>
+
+    <!-- MAIN MARKDOWN CONTENT BODY -->
+    <div id="content" class="article-body-content"></div>
+
+    <!-- BOTTOM AUTHOR PROFILE CARD -->
+    <div id="bottomAuthorCard" class="bottom-author-card">
+      <img id="bottomAuthorAvatar" class="bottom-author-avatar" alt="Author Profile">
+      <div class="bottom-author-details">
+        <div class="bottom-author-title-row">
+          <span id="bottomAuthorName" class="bottom-author-name">Author Name</span>
+          <a id="bottomAuthorProfileBtn" class="bottom-author-btn">View Full Profile & Articles →</a>
+        </div>
+        <div id="bottomAuthorRole" class="bottom-author-role">Editorial Contributor</div>
+        <div id="bottomAuthorBio" class="bottom-author-bio">Author biography details...</div>
+      </div>
+    </div>
+
+    <!-- RELATED FINANCIAL ARTICLES -->
+    <section class="related-stories-wrap">
+      <h3 class="related-title">More Financial Intelligence</h3>
+      <div id="relatedGrid" class="related-grid"></div>
+    </section>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
