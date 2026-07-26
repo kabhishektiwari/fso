@@ -1,0 +1,62 @@
+{
+  "k_abhishektiwari": {
+    "name": "Abhishek Tiwari",
+    "role": "Founder & Chief Editor",
+    "bio": "Specializes in global capital flows, defense economics, and emerging market macro structure. Over 10 years of experience analyzing geopolitical financial shifts.",
+    "avatar": "images/authors/myprofilecircle.png"
+  },
+  "s_chen": {
+    "name": "Sarah Chen",
+    "role": "Global Macro Strategist",
+    "bio": "Former central bank economic advisor focusing on interest rate trajectories, inflation modeling, and sovereign yield curve dynamics across North America and Asia.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+  },
+  "m_vanderberg": {
+    "name": "Marcus Van Der Berg",
+    "role": "Head of Commodities & Energy",
+    "bio": "Analyzes crude oil benchmarks, LNG trade routes, critical minerals, and clean energy transition financing across EMEA and Latin America.",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&auto=format&fit=crop&q=80"
+  },
+  "e_rodriguez": {
+    "name": "Elena Rodriguez",
+    "role": "Monetary Policy & Banking Analyst",
+    "bio": "Expert in Federal Reserve policies, ECB rate cuts, commercial banking liquidity, and global balance sheet adjustments.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80"
+  },
+  "a_kapoor": {
+    "name": "Arjun Kapoor",
+    "role": "Fintech & Digital Infrastructure Lead",
+    "bio": "Covers high-frequency trading platforms, cross-border payment rails, AI data center investments, and digital asset regulation.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+  },
+  "j_blackwood": {
+    "name": "Julian Blackwood",
+    "role": "Wall Street & Corporate Earnings Specialist",
+    "bio": "Focuses on Fortune 500 quarterly disclosures, M&A valuations, private equity buyouts, and enterprise balance sheet health.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+  },
+  "n_al_mansoor": {
+    "name": "Nadia Al-Mansoor",
+    "role": "Sovereign Wealth & Emerging Markets Advisor",
+    "bio": "Tracks GCC sovereign wealth deployments, belt-and-road infrastructure debt restructuring, and emerging market bond issuance.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+  },
+  "p_dubois": {
+    "name": "Pierre Dubois",
+    "role": "European Markets & ESG Research Lead",
+    "bio": "Investigates European Union regulatory compliance, green bond financing, carbon credit markets, and industrial energy economics.",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80"
+  },
+  "r_takahashi": {
+    "name": "Ren Takahashi",
+    "role": "Asian Tech & Semiconductor Analyst",
+    "bio": "Specializes in East Asian tech supply chains, foundry capacity expansion, microchip trade policies, and consumer electronics trends.",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80"
+  },
+  "l_foster": {
+    "name": "Laura Foster",
+    "role": "Wealth Management & Financial Columnist",
+    "bio": "Provides practical insights on institutional portfolio allocation, inflation-hedging strategies, retirement planning, and yield optimization.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80"
+  }
+}
