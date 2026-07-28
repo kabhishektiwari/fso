@@ -3,267 +3,267 @@
     {
       "id": 1,
       "title": "Oil Under $80, Data Centers, and the Global Grid: Today's Capital Flow",
+      "isHero": true,
+      "trendingWeekly": true,
       "category": "World",
       "tag": "Geopolitics",
       "authorId": "k_abhishektiwari",
-      "views": 38450,
-      "isHero": true,
-      "trendingWeekly": true,
       "about": "The shadow of geopolitical tension is lifting as a landmark US-Iran peace deal pulls oil prices below $80, breathing fresh confidence into global markets. India is channeling this stability into record defense production and ₹70 billion in AI data centers.",
       "body": "Welcome back to our daily financial chronicle. As a farsight writer, I watch how the grand narratives of geopolitics eventually filter down into the very real, brick-and-mortar investments that shape our future. Yesterday, we saw the markets consciously absorb the confirmed US-Iran peace agreement. Today, we are witnessing how that newfound stability is giving governments and massive financial institutions the subconscious confidence to build and expand.\n\n### India: The Market Engine and Digital Vaults\n\nAccording to closing data from financial analytics firm Dhan, our domestic stock markets held their ground beautifully. The Nifty 50 index crept up by 0.22% to cross a significant milestone, closing at 24,043. The BSE Sensex also climbed by 0.45%. The fundamental anchor keeping our markets calm is the price of oil. With the peace deal securing the Strait of Hormuz, Brent crude has fallen below the critical psychological level of $80 per barrel, dramatically easing the heavy burden of inflation.\n\n| Indicator | Value | Weekly Change |\n| --- | --- | --- |\n| Brent Crude | $78.40/bbl | -4.2% |\n| Nifty 50 | 24,043.15 | +1.1% |\n| BSE Sensex | 79,120.40 | +0.9% |\n| 10Y India Bond Yield | 6.88% | -12 bps |\n\nIn the banking and finance sector, corporate strategy drove massive movement. Shares of IDBI Bank surged an astonishing 19% as rumors of an impending government divestment gained serious traction among investors. Meanwhile, CPP Investments announced a massive ₹70 billion commitment to partner with CtrlS Datacenters for next-gen AI infrastructure across India.\n\n### Global Horizon: The G7, Fed & African Energy\n\nTurning our gaze outward, the US Federal Reserve held benchmark interest rates steady at 3.50% to 3.75%. Meanwhile, G7 leaders in Évian drafted new critical minerals strategies to reduce supply chain dependencies.\n\nFinally, at the Africa Energy Forum, the 'Zafiri' $176M commercial fund was launched to deploy distributed renewable energy microgrids, proving that economic development is about strategically plugging human potential into the global grid.",
-      "createdAt": "2026-07-26 09:30 AM"
+      "createdAt": "2026-07-26 09:30 AM",
+      "views": 2000
     },
     {
       "id": 2,
       "title": "Federal Reserve Holds Rates at 3.50%: What It Means for Sovereign Debt and Dollar Strength",
+      "trendingWeekly": false,
       "category": "Central Banks",
       "tag": "Monetary Policy",
       "authorId": "s_chen",
-      "views": 29120,
-      "trendingWeekly": false,
       "about": "The FOMC unanimously agreed to pause interest rate adjustments. Sarah Chen analyzes the domino effects on emerging market currencies, corporate debt refinancing, and Treasury yield spreads.",
       "body": "The Federal Open Market Committee (FOMC) delivered a clear signal to international liquidity providers today, holding the target range for the federal funds rate at 3.50% to 3.75%. \n\n### Core Takeaways for Institutional Investors\n\n1. **Yield Curve Normalization**: The 10-year Treasury note yield stabilized around 3.92%, easing compression pressures on commercial bank net interest margins.\n2. **Emerging Market Capital Inflows**: With US rates remaining steady rather than spiking, cross-border debt issuances in LATAM and Southeast Asia surged 14% month-over-month.\n3. **Dollar Index (DXY) Trajectory**: The DXY index settled near 101.80, lowering import cost pressures for energy-dependent Asian economies.\n\n### Inflation Dynamics & Labor Force Metrics\n\nCore PCE inflation slowed to 2.2% annualized, approaching the Fed's target rate. Chairman Kevin Warsh emphasized that quantitative tightening (QT) will continue at its measured pace of $45 billion per month in balance sheet normalization.",
-      "createdAt": "2026-07-25 04:15 PM"
+      "createdAt": "2026-07-25 04:15 PM",
+      "views": 29120
     },
     {
       "id": 3,
       "title": "Global Semiconductor War: TSMC & Samsung Boost Sub-2nm Fab Spending to $42 Billion",
+      "trendingWeekly": false,
       "category": "Technology",
       "tag": "Semiconductors",
       "authorId": "r_takahashi",
-      "views": 27800,
-      "trendingWeekly": false,
       "about": "As artificial intelligence workloads explode worldwide, foundry giants TSMC and Samsung are accelerating capital expenditure on high-NA EUV lithography equipment.",
       "body": "Demand for next-generation silicon accelerators has pushed foundry utilization rates to 98.4%. Ren Takahashi breaks down the capital expenditure plans of major semiconductor foundries.\n\n### The Sub-2nm Race\n\n* **TSMC**: Allocating $28B towards N2 and A16 process nodes in Hsinchu and Kumamoto.\n* **Samsung Electronics**: Committing $14B to GAA (Gate-All-Around) architecture lines in Taylor, Texas and Pyeongtaek.\n* **Intel Foundry**: Ramping up PowerVia backside power delivery for enterprise server clients.\n\nSovereign chips grants under the US CHIPS Act and European Chips Act have unlocked an additional $11 billion in non-dilutive subsidies, cementing hardware dominance as a crucial pillar of modern financial security.",
-      "createdAt": "2026-07-25 11:00 AM"
+      "createdAt": "2026-07-25 11:00 AM",
+      "views": 27800
     },
     {
       "id": 4,
       "title": "Crude Oil Market Analysis: Brent Drops Below $78 as OPEC+ Increases Monthly Quotas",
+      "trendingWeekly": false,
       "category": "Commodities",
       "tag": "Energy Markets",
       "authorId": "m_vanderberg",
-      "views": 24100,
-      "trendingWeekly": false,
       "about": "Easing Middle Eastern supply disruption risks combined with unexpected US commercial inventory build-ups have driven crude futures to six-month lows.",
       "body": "Energy benchmark Brent Crude fell $2.15 to $77.85 per barrel following the latest EIA inventory release. Marcus Van Der Berg examines supply-demand equilibrium.\n\n### Supply Dynamics Breakdown\n\n* **OPEC+ Production**: Phasing out voluntary cuts by 180,000 barrels per day starting next month.\n* **Non-OPEC Output**: Record production levels from the Permian Basin, Guyana, and offshore Brazil adding 1.2M bpd of light sweet crude.\n* **Refinery Cracking Margins**: Gasoline crack spreads narrowed to $12.40/bbl, pointing to softer seasonal transportation fuel demand.",
-      "createdAt": "2026-07-24 02:45 PM"
+      "createdAt": "2026-07-24 02:45 PM",
+      "views": 24100
     },
     {
       "id": 5,
       "title": "AI Infrastructure Boom: Cloud Hyperscalers Outlay $180B in Capital Expenditure",
+      "trendingWeekly": false,
       "category": "Technology",
       "tag": "Artificial Intelligence",
       "authorId": "a_kapoor",
-      "views": 22900,
-      "trendingWeekly": false,
       "about": "Microsoft, Alphabet, Amazon, and Meta report record quarterly capex dedicated to custom ASIC design, liquid cooling, and gigawatt power purchase agreements.",
       "body": "The hardware backbone of modern AI requires unprecedented electrical and computational capacity. Arjun Kapoor analyzes the financial statement disclosures of top hyperscalers.\n\n### Key Financial Insights\n\n- **Free Cash Flow Conversion**: Despite massive capex, operating cash flows grew 18% YoY due to enterprise cloud subscription growth.\n- **Nuclear & Renewable PPAs**: Hyperscalers signed 14.2 Gigawatts of long-term small modular reactor (SMR) power contracts.\n- **Custom Silicon ROI**: Proprietary chips (TPUs, Trainium, Maia) now handle 35% of internal inferencing workloads, cutting dependence on third-party GPUs.",
-      "createdAt": "2026-07-24 08:30 AM"
+      "createdAt": "2026-07-24 08:30 AM",
+      "views": 22900
     },
     {
       "id": 6,
       "title": "Q2 Corporate Earnings Spotlight: S&P 500 Profit Margins Expand to 12.1%",
+      "trendingWeekly": false,
       "category": "Markets",
       "tag": "Corporate Earnings",
       "authorId": "j_blackwood",
-      "views": 21500,
-      "trendingWeekly": false,
       "about": "With 78% of S&P 500 components reporting Q2 earnings, cost discipline and automated supply chains have driven net profit margins higher despite revenue headwinds.",
       "body": "Julian Blackwood provides an in-depth breakdown of corporate earnings, balance sheet debt maturity walls, and stock buyback authorizations.\n\n### Sector Highlights\n\n1. **Financials**: Net interest income beat consensus by 4.2% due to sticky loan yields.\n2. **Industrials**: Order backlogs in defense and aerospace reached $480 billion.\n3. **Consumer Discretionary**: Bifurcation observed; premium luxury brands held pricing power while mid-tier retail volume softened slightly.",
-      "createdAt": "2026-07-23 05:20 PM"
+      "createdAt": "2026-07-23 05:20 PM",
+      "views": 21500
     },
     {
       "id": 7,
       "title": "Sovereign Debt Trends in Emerging Markets: GCC Funds Drive $35B Infrastructure Expansion",
+      "trendingWeekly": false,
       "category": "Economy",
       "tag": "Emerging Markets",
       "authorId": "n_al_mansoor",
-      "views": 19800,
-      "trendingWeekly": false,
       "about": "Sovereign wealth vehicles from Saudi Arabia, UAE, and Qatar are deploying catalytic capital into African rail links, Southeast Asian green hydrogen, and Latin American lithium mines.",
       "body": "Nadia Al-Mansoor maps out how Middle Eastern wealth funds are shifting focus from Western equities to emerging market physical infrastructure assets.\n\n### Strategic Allocations\n\n- **PIF & Mubadala**: Direct investments in port logistics and logistics corridors in India and Indonesia.\n- **Local Currency Debt Bonds**: Foreign ownership of local-currency sovereign bonds in Brazil and India reached 5-year highs.",
-      "createdAt": "2026-07-23 10:15 AM"
+      "createdAt": "2026-07-23 10:15 AM",
+      "views": 19800
     },
     {
       "id": 8,
       "title": "European Union Green Bond Issuance Surges Past €250 Billion Mark",
+      "trendingWeekly": false,
       "category": "Markets",
       "tag": "ESG & Green Bonds",
       "authorId": "p_dubois",
-      "views": 18200,
-      "trendingWeekly": false,
       "about": "European sovereign and corporate issuers lead the world in sustainability-linked debt. Pierre Dubois evaluates yields, regulatory disclosures, and investor demand.",
       "body": "Europe's green bond framework continues setting global standards for sustainable finance. Yield spreads between standard sovereign bonds and green bonds ('greenium') narrowed to 3 basis points.",
-      "createdAt": "2026-07-22 03:00 PM"
+      "createdAt": "2026-07-22 03:00 PM",
+      "views": 18200
     },
     {
       "id": 9,
       "title": "Navigating Real Yields in an Inflationary Landscape: A Portfolio Guide for 2026",
+      "trendingWeekly": false,
       "category": "Economy",
       "tag": "Wealth Management",
       "authorId": "l_foster",
-      "views": 17400,
-      "trendingWeekly": false,
       "about": "How institutional asset allocators protect capital against sticky services inflation using inflation-indexed Treasuries, infrastructure funds, and dividend growers.",
       "body": "Laura Foster outlines a resilient asset allocation model engineered for persistent 2.5% - 3.0% structural inflation environments.",
-      "createdAt": "2026-07-22 09:45 AM"
+      "createdAt": "2026-07-22 09:45 AM",
+      "views": 17400
     },
     {
       "id": 10,
       "title": "European Central Bank Signals Final 25bps Rate Reduction as Eurozone Growth Rebounds",
+      "trendingWeekly": false,
       "category": "Central Banks",
       "tag": "ECB Policy",
       "authorId": "e_rodriguez",
-      "views": 16900,
-      "trendingWeekly": false,
       "about": "ECB President Christine Lagarde signaled that monetary policy is approaching a neutral rate stance as services inflation settles near 2.1%.",
       "body": "Elena Rodriguez analyzes the latest Governing Council statement and the implications for Euribor rates and German Bund yields.",
-      "createdAt": "2026-07-21 04:10 PM"
+      "createdAt": "2026-07-21 04:10 PM",
+      "views": 16900
     },
     {
       "id": 11,
       "title": "Cross-Border Digital Payments: Central Bank Digital Currencies (CBDCs) Enter Pilot Phase",
+      "trendingWeekly": false,
       "category": "Technology",
       "tag": "Fintech & CBDCs",
       "authorId": "a_kapoor",
-      "views": 15800,
-      "trendingWeekly": false,
       "about": "Project mBridge and wholesale CBDC networks achieve instantaneous cross-border settlement with zero settlement risk and 80% lower transaction fees.",
       "body": "The future of international trade clearing is undergoing a seismic shift away from legacy correspondent banking networks.",
-      "createdAt": "2026-07-21 11:30 AM"
+      "createdAt": "2026-07-21 11:30 AM",
+      "views": 15800
     },
     {
       "id": 12,
       "title": "Copper Futures Hit $4.80/lb on Accelerating Electric Vehicle & Power Grid Demand",
+      "trendingWeekly": false,
       "category": "Commodities",
       "tag": "Metals & Mining",
       "authorId": "m_vanderberg",
-      "views": 15100,
-      "trendingWeekly": false,
       "about": "Supply constraints in Chilean and Peruvian mines coupled with massive power grid upgrades in China push red metal futures to 2-year highs.",
       "body": "Dr. Copper is sending a bullish signal across global industrial manufacturing networks as inventory levels at the London Metal Exchange (LME) fall to critical thresholds.",
-      "createdAt": "2026-07-20 02:20 PM"
+      "createdAt": "2026-07-20 02:20 PM",
+      "views": 15100
     },
     {
       "id": 13,
       "title": "India's Tech Export Growth Reaches $210B: IT Services & Hardware Assembly Surge",
+      "trendingWeekly": false,
       "category": "World",
       "tag": "Indian Economy",
       "authorId": "k_abhishektiwari",
-      "views": 14600,
-      "trendingWeekly": false,
       "about": "Driven by Global Capability Centers (GCCs) and mobile phone assembly ecosystems, India's service and electronics exports hit historic highs.",
       "body": "Abhishek Tiwari examines how India's structural pivot toward high-value engineering design and hardware manufacturing is reshaping its current account deficit.",
-      "createdAt": "2026-07-20 08:50 AM"
+      "createdAt": "2026-07-20 08:50 AM",
+      "views": 14600
     },
     {
       "id": 14,
       "title": "Global Private Credit Market Reaches $1.8 Trillion: Opportunities & Systematic Risks",
+      "trendingWeekly": false,
       "category": "Markets",
       "tag": "Private Debt",
       "authorId": "j_blackwood",
-      "views": 13900,
-      "trendingWeekly": false,
       "about": "Direct lending funds continue capturing market share from traditional investment banks, offering floating rates to middle-market corporate borrowers.",
       "body": "Julian Blackwood explores default risk coverage, loan covenants, and liquidity terms in private credit fund structures.",
-      "createdAt": "2026-07-19 03:40 PM"
+      "createdAt": "2026-07-19 03:40 PM",
+      "views": 13900
     },
     {
       "id": 15,
       "title": "Yen Carry Trade Unwind Update: Bank of Japan Policy Normalization Strategy",
+      "trendingWeekly": false,
       "category": "Central Banks",
       "tag": "BOJ Policy",
       "authorId": "s_chen",
-      "views": 13200,
-      "trendingWeekly": false,
       "about": "As Bank of Japan Governor Kazuo Ueda gradually lifts short-term rates, global macro funds adjust leverage positions across global asset classes.",
       "body": "Sarah Chen breaks down JGB yield dynamics and how foreign exchange volatility impacts Tokyo financial institutions.",
-      "createdAt": "2026-07-19 10:05 AM"
+      "createdAt": "2026-07-19 10:05 AM",
+      "views": 13200
     },
     {
       "id": 16,
       "title": "Renewable Energy M&A: Offshore Wind Projects Secure $18B in Project Finance",
+      "trendingWeekly": false,
       "category": "Markets",
       "tag": "Clean Energy",
       "authorId": "p_dubois",
-      "views": 12800,
-      "trendingWeekly": false,
       "about": "Consortiums led by European utilities and infrastructure private equity funds close milestone financing packages for North Sea and Atlantic wind farms.",
       "body": "Pierre Dubois highlights project finance debt structures and long-term power purchase agreement (PPA) pricing mechanisms.",
-      "createdAt": "2026-07-18 01:15 PM"
+      "createdAt": "2026-07-18 01:15 PM",
+      "views": 12800
     },
     {
       "id": 17,
       "title": "Southeast Asian Tech Ecosystem: E-Commerce & Fintech Funding Rebounds 22%",
+      "trendingWeekly": false,
       "category": "Technology",
       "tag": "Venture Capital",
       "authorId": "r_takahashi",
-      "views": 12100,
-      "trendingWeekly": false,
       "about": "Late-stage venture capital returns to Singapore, Indonesia, and Vietnam as startups demonstrate clear pathways to GAAP profitability.",
       "body": "Ren Takahashi evaluates venture capital deployment metrics and public market exit pipelines across ASEAN capitals.",
-      "createdAt": "2026-07-18 09:25 AM"
+      "createdAt": "2026-07-18 09:25 AM",
+      "views": 12100
     },
     {
       "id": 18,
       "title": "Gold Tops $2,450/oz as Global Central Banks Continue Net Bullion Accumulation",
+      "trendingWeekly": false,
       "category": "Commodities",
       "tag": "Precious Metals",
       "authorId": "m_vanderberg",
-      "views": 11700,
-      "trendingWeekly": false,
       "about": "Sovereign reserve diversification away from fiat paper assets drives central bank gold buying to near-record levels for the fourth consecutive year.",
       "body": "Marcus Van Der Berg analyzes official sector reserve data from the World Gold Council and institutional ETF inflows.",
-      "createdAt": "2026-07-17 04:50 PM"
+      "createdAt": "2026-07-17 04:50 PM",
+      "views": 11700
     },
     {
       "id": 19,
       "title": "Commercial Real Estate Restructuring: Office Asset Valuations Trough in Major Cities",
+      "trendingWeekly": false,
       "category": "Economy",
       "tag": "Real Estate",
       "authorId": "l_foster",
-      "views": 11300,
-      "trendingWeekly": false,
       "about": "Institutional investors begin acquiring prime Class-A urban towers at 35% discount to replacement cost, signaling valuation bottoming.",
       "body": "Laura Foster reviews cap rate expansions, tenant lease renewals, and debt workout strategies among commercial mortgage REITS.",
-      "createdAt": "2026-07-17 11:10 AM"
+      "createdAt": "2026-07-17 11:10 AM",
+      "views": 11300
     },
     {
       "id": 20,
       "title": "Latin America Trade Outlook: Nearshoring Propels Mexico FDI to Record $40 Billion",
+      "trendingWeekly": false,
       "category": "World",
       "tag": "Nearshoring",
       "authorId": "n_al_mansoor",
-      "views": 10800,
-      "trendingWeekly": false,
       "about": "Automotive suppliers, electronics makers, and medical device manufacturers expand industrial park presence in Monterrey and Querétaro.",
       "body": "Nadia Al-Mansoor maps North American supply chain integration, cross-border freight corridor expansions, and regional job growth.",
-      "createdAt": "2026-07-16 02:30 PM"
+      "createdAt": "2026-07-16 02:30 PM",
+      "views": 10800
     },
     {
       "id": 21,
       "title": "Artificial Intelligence in Algorithmic Trading: Quantitative Edge in Liquidity Provision",
+      "trendingWeekly": false,
       "category": "Technology",
       "tag": "Algo Trading",
       "authorId": "a_kapoor",
-      "views": 10200,
-      "trendingWeekly": false,
       "about": "High-frequency trading desks deploy transformer models for real-time order book imbalance prediction and market impact optimization.",
       "body": "Arjun Kapoor explores latency reduction, statistical arbitrage strategies, and exchange co-location dynamics.",
-      "createdAt": "2026-07-16 08:45 AM"
+      "createdAt": "2026-07-16 08:45 AM",
+      "views": 10200
     },
     {
       "id": 22,
       "title": "US Municipal Bond Market: High-Yield Muni Inflows Hit 18-Month Peak",
+      "trendingWeekly": false,
       "category": "Markets",
       "tag": "Fixed Income",
       "authorId": "e_rodriguez",
-      "views": 9800,
-      "trendingWeekly": false,
       "about": "Tax-exempt yields attract retail and institutional wealth accounts seeking stable income streams amidst shifting federal tax brackets.",
       "body": "Elena Rodriguez examines credit default ratios, state tax revenue trends, and infrastructure bond offerings.",
-      "createdAt": "2026-07-15 03:15 PM"
+      "createdAt": "2026-07-15 03:15 PM",
+      "views": 9800
     }
   ]
 }
