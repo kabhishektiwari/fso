@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kabhishektiwari/kabhishektiwari.github.io
+  repo: kabhishektiwari/fso
   branch: main
 
 local_backend: true
